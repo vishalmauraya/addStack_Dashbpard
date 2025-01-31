@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:dashboard_app/widgets/sideMenu.dart';
 import 'package:dashboard_app/widgets/centreContent.dart';
-import 'package:dashboard_app/Widgets/rightPanel.dart';
-// import 'package:dashboard_app/Widgets/projectHighlight.dart';
-// import 'package:dashboard_app/Widgets/customContainer.dart';
 
 
 class DashboardScreen extends StatefulWidget {
