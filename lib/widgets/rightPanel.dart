@@ -2,7 +2,7 @@ import 'package:dashboard_app/Consts/Size.dart';
 import 'package:dashboard_app/widgets/ReusableCard.dart';
 import 'package:dashboard_app/widgets/aniversaryCard.dart';
 import 'package:flutter/material.dart';
-import 'package:dashboard_app/Widgets/calenderWidget.dart';
+import 'package:dashboard_app/widgets/calenderWidget.dart';
 
 
 class RightPanel extends StatelessWidget {
